@@ -18,5 +18,5 @@ group :development, :test do
   # https://github.com/presidentbeef/brakeman
   gem 'brakeman', '~> 4.3', '>= 4.3.1', require: false
   # https://github.com/rails/rails/tree/master/activesupport#download-and-installation
-  gem 'activesupport', '~> 6.0'
+  gem 'activesupport', '~> 7.0'
 end
